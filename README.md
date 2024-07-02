@@ -3,7 +3,7 @@ This is a LLM-based document QnA pipeline that extracts text from a given docume
 
 The pipeline was tested on a couple of documents containing information of the electoral bonds vis-a-vis the Indian General Elections, from 2019 to 2024 provided by Election Commission of India.
 
-The "party_bonds.pdf" file contains the complete list of electoral bonds encashed by the every political party from 2019 to 2024.
+The "party_bonds.pdf" file contains the complete list of electoral bonds encashed by all the listed political parties between 2019 to 2024.
 
 The "comapny_bonds.pdf" file contains the list of private/public entities that provided the bonds within the same timeline and of various denominations. Note that every bond has a unique bond number with it and hence makes tracking transactions easier in these documents.
 
