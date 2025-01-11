@@ -1,4 +1,4 @@
-# Document-based-QnA
+# Document based QnA
 This is a LLM-based document QnA pipeline that extracts text from a given document and provides answers to user prompts regrading the content of the document.
 
 The pipeline was tested on a couple of documents containing information of the electoral bonds vis-a-vis the Indian General Elections, from 2019 to 2024 provided by Election Commission of India.
