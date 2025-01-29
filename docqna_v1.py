@@ -10,12 +10,12 @@ Original file is located at
 """
 
 # !pip install -q streamlit
-# !pip install -q tabula-py
-# !pip install -q spacy
-# !pip install -q spacy-llm
-# !pip install -q groq
+!pip install -q tabula-py
+!pip install -q spacy
+!pip install -q spacy-llm
+!pip install -q groq
 
-# !git clone https://github.com/Dev1503/Document-based-QnA
+!git clone https://github.com/Dev1503/Document-based-QnA
 
 """## Creating files for LLM-NER"""
 
