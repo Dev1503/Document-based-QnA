@@ -522,5 +522,5 @@ Original file is located at
 # 
 # st.text_area("Answer", result, height=100)
 
-!streamlit run app.py & npx localtunnel --port 8501
+# !streamlit run app.py & npx localtunnel --port 8501
 
